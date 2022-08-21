@@ -185,7 +185,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   appTitleText: {
-    color: "white",
+    color: "cyan",
     fontSize: RFValue(28),
     fontFamily: "Bubblegum-Sans",
   },
@@ -207,7 +207,7 @@ const styles = StyleSheet.create({
     borderWidth: RFValue(1),
     borderRadius: RFValue(10),
     paddingLeft: RFValue(10),
-    color: "white",
+    color: "cyan",
     fontFamily: "Bubblegum-Sans",
   },
   inputFontExtra: {
